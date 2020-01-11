@@ -1,6 +1,5 @@
 #include<stdio.h>
-
-
+// reference: leetcode-07
 
 int reverse(int);
 
